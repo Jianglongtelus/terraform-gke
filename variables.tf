@@ -3,7 +3,7 @@ variable "name" {
 }
 
 variable "project" {
-  default = "optimum-spring-238818"
+  default = "ims-kpi-web-portal-lab-7b4f89"
 }
 
 variable "location" {
